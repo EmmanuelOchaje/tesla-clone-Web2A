@@ -107,7 +107,7 @@ export default function Hero() {
       </button>
       <button
         onClick={next}
-        className="absolute cursor-pointer right-2 md:left-20 top-1/2 -translate-y-1/2 z-10 bg-white rounded p-2"
+        className="absolute cursor-pointer right-2 md:right-20 top-1/2 -translate-y-1/2 z-10 bg-white rounded p-2"
         aria-label="Next"
       >
         <img src={right} alt="" className="w-4 h-4" />
