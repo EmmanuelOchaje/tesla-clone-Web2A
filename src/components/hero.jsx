@@ -55,7 +55,7 @@ export default function Hero() {
       <div className="absolute inset-0 bg-linear-to-b from-black/20 via-transparent to-black/30" />
 
       {/* Title */}
-      <div className="absolute top-20 left-0 right-0 text-center z-10 px-4">
+      <div className="absolute top-50 md:top-20 left-0 right-0 text-center z-10 px-4">
         <h1 className="text-xl font md:text-4xl font-semibold text-white leading-tight">
           {slide.title}
         </h1>
